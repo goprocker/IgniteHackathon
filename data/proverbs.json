@@ -1,0 +1,574 @@
+[
+  {
+    "id": "alavukku-minjinaal",
+    "proverbTamil": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+    "transliteration": "Alavukku minjinaal amirthamum nanju",
+    "englishMeaning": "Beyond the right measure, even nectar turns to poison.",
+    "explanationTamil": "எவ்வளவு நல்ல விஷயமாக இருந்தாலும் அளவு மீறினால் தீங்கே விளையும். பழக்கம், உணவு, பொழுதுபோக்கு ஆகியவற்றில் அளவு தவறும்போது இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Even something good becomes harmful once it passes a healthy limit. Use it when someone is overdoing a habit, a pleasure, or an otherwise fine activity.",
+    "themes": ["moderation", "consequences"],
+    "emotions": ["warning", "concern"],
+    "keywordsTamil": ["அளவு", "மிஞ்சுதல்", "அமிர்தம்", "நஞ்சு", "அதிகம்"],
+    "keywordsEnglish": [
+      "excess",
+      "overdoing",
+      "addiction",
+      "limit",
+      "balance",
+      "moderation",
+      "binge",
+      "too",
+      "much"
+    ],
+    "tanglishAliases": ["alavu", "adhigam", "minjinaal", "nanju", "amirtham"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I keep binge watching one more episode on my phone until 3am, and now my head aches all day and my attendance has dropped below the cutoff."
+      },
+      {
+        "language": "ta",
+        "text": "பொழுதுபோக்குக்காகத் தொடங்கிய மொபைல் கேம் இப்போது நாள் முழுவதும் தொடர்கிறது, கண் வலியும் தூக்கமின்மையும் வந்துவிட்டது."
+      },
+      {
+        "language": "tanglish",
+        "text": "Weekend party pogaradhu nalladhu thaan, aana daily night out pona salary full ah kaali aidichu, health um wasted."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "poruthaar-bhoomi-aalvaar",
+    "proverbTamil": "பொறுத்தார் பூமி ஆள்வார்",
+    "transliteration": "Poruthaar bhoomi aalvaar",
+    "englishMeaning": "Those who endure with patience will rule the earth.",
+    "explanationTamil": "கோபத்தை அடக்கிப் பொறுமையாக இருப்பவரே இறுதியில் வெற்றி பெறுவார். உடனடியாக எதிர்வினை செய்யத் தூண்டும் சூழலில் இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Whoever holds their temper and waits ends up ahead of whoever reacts first. Use it when someone is about to burn a relationship or a job over a moment of anger.",
+    "themes": ["patience"],
+    "emotions": ["reassurance", "encouragement"],
+    "keywordsTamil": ["பொறுமை", "கோபம்", "பூமி", "தாங்குதல்", "அமைதி"],
+    "keywordsEnglish": [
+      "patience",
+      "temper",
+      "anger",
+      "wait",
+      "endure",
+      "calm",
+      "restraint",
+      "provoked"
+    ],
+    "tanglishAliases": ["porumai", "kobam", "aduthu", "thaangu", "amaidhi"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "My teammate takes credit for my work in every standup and I want to shout at him in front of the whole team tomorrow."
+      },
+      {
+        "language": "ta",
+        "text": "மேலாளர் அனைவர் முன்னிலையிலும் திட்டியதால் கோபத்தில் உடனே ராஜினாமா கடிதம் அனுப்பலாமா என்று யோசிக்கிறேன்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Hostel roommate daily fight panraan, porumaiya irukanuma illa naan um thirupi adichu pesanuma nu theriyala."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "thaan-seitha-vinai",
+    "proverbTamil": "தான் செய்த வினை தன்னைச் சுடும்",
+    "transliteration": "Thaan seitha vinai thannai sudum",
+    "englishMeaning": "The deed a person does will come back and burn that same person.",
+    "explanationTamil": "ஒருவர் செய்யும் தவறு காலம் கடந்தாலும் அவரையே வந்து சேரும். செய்த குறுக்குவழிக்கான விளைவு தெரியத் தொடங்கும்போது இதைச் சொல்லலாம்.",
+    "explanationEnglish": "A wrong act eventually finds its way back to whoever committed it. Use it when the cost of a shortcut or an unkindness is starting to land on the person who chose it.",
+    "themes": ["consequences"],
+    "emotions": ["warning", "criticism"],
+    "keywordsTamil": ["வினை", "விளைவு", "தவறு", "பலன்", "சுடும்"],
+    "keywordsEnglish": [
+      "consequences",
+      "backfire",
+      "cheating",
+      "shortcut",
+      "karma",
+      "caught",
+      "result",
+      "blame"
+    ],
+    "tanglishAliases": ["vinai", "vilaivu", "thappu", "sudum", "palan"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I copied my friend's assignment last semester and now the plagiarism check has flagged both of us and my internship offer is on hold."
+      },
+      {
+        "language": "ta",
+        "text": "தேர்வில் காப்பியடித்துத் தேறியவன், இப்போது வேலை நேர்காணலில் அடிப்படைக் கேள்விக்குக்கூட பதில் சொல்ல முடியாமல் திணறுகிறான்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Avan office la ellarayum back la kevalama pesinaan, ippo appraisal time la yaarum avanukku support panna varala."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "muyarchi-thiruvinaiyaakkum",
+    "proverbTamil": "முயற்சி திருவினையாக்கும்",
+    "transliteration": "Muyarchi thiruvinaiyaakkum",
+    "englishMeaning": "Sustained effort turns work into wealth and good fortune.",
+    "explanationTamil": "தொடர்ந்து முயற்சி செய்பவருக்கே செல்வமும் வெற்றியும் வந்து சேரும். தோல்விக்குப் பிறகு மீண்டும் தொடங்குபவரை ஊக்குவிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Effort kept up over time is what actually produces results, not luck. Use it to encourage someone who is restarting after a failure or grinding through slow progress.",
+    "themes": ["effort"],
+    "emotions": ["encouragement", "approval"],
+    "keywordsTamil": ["முயற்சி", "உழைப்பு", "வெற்றி", "தொடர்ச்சி", "பயிற்சி"],
+    "keywordsEnglish": [
+      "effort",
+      "hardwork",
+      "practice",
+      "persistence",
+      "failure",
+      "retry",
+      "discipline",
+      "progress"
+    ],
+    "tanglishAliases": ["muyarchi", "uzhaippu", "practice", "vetri", "kastam"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I failed the entrance exam twice but I am still solving papers every morning before college for the third attempt."
+      },
+      {
+        "language": "ta",
+        "text": "தினமும் ஒரு மணி நேரம் ஒதுக்கிக் கோடிங் பயிற்சி செய்தால், ஒரு வருடத்தில் நல்ல வேலை கிடைக்கும் என்று நம்புகிறேன்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Mudhal rendu interview la reject aachu, aana daily DSA practice pannitu iruken, next round ku ready aidren."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "peraasai-peru-nashtam",
+    "proverbTamil": "பேராசை பெரு நஷ்டம்",
+    "transliteration": "Peraasai peru nashtam",
+    "englishMeaning": "Great greed brings great loss.",
+    "explanationTamil": "அளவுக்கு அதிகமான ஆசை கையில் இருப்பதையும் இழக்கச் செய்யும். எளிதாகப் பெரிய லாபம் தேடிச் செல்பவரை எச்சரிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Chasing an outsized gain usually costs you what you already had. Use it when someone is tempted by a quick-money scheme or an offer that looks too good.",
+    "themes": ["greed", "consequences"],
+    "emotions": ["warning", "regret"],
+    "keywordsTamil": ["ஆசை", "பேராசை", "நஷ்டம்", "இழப்பு", "லாபம்"],
+    "keywordsEnglish": [
+      "greed",
+      "scam",
+      "loss",
+      "gambling",
+      "money",
+      "profit",
+      "risk",
+      "savings",
+      "tempted"
+    ],
+    "tanglishAliases": ["aasai", "peraasai", "nashtam", "labam", "kaasu"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I put my entire savings into a coin some stranger was promoting on instagram because he promised triple returns, and now the app has shut down."
+      },
+      {
+        "language": "ta",
+        "text": "அதிக வட்டி தருவதாகச் சொன்ன திட்டத்தில் சேமிப்பு முழுவதையும் போட்டு, இப்போது அசலையும் இழந்துவிட்டேன்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Oru month la double panren nu sonnaanga, naan full savings potten, ippo phone kooda edukka maatengraanga."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "koodi-vaazhndhaal-kodi-nanmai",
+    "proverbTamil": "கூடி வாழ்ந்தால் கோடி நன்மை",
+    "transliteration": "Koodi vaazhndhaal kodi nanmai",
+    "englishMeaning": "Living and working together brings countless benefits.",
+    "explanationTamil": "ஒற்றுமையாகச் செயல்படும்போது தனித்தனியாகச் செய்வதைவிட மிகப் பெரிய பலன் கிடைக்கும். குழுவாக வேலை செய்ய வேண்டிய சூழலில் இதைச் சொல்லலாம்.",
+    "explanationEnglish": "A group that pulls together gets far more done than the same people working alone. Use it when a team is fragmenting or when someone insists on doing everything solo.",
+    "themes": ["unity"],
+    "emotions": ["encouragement", "approval"],
+    "keywordsTamil": ["ஒற்றுமை", "கூட்டு", "குழு", "சேர்ந்து", "நன்மை"],
+    "keywordsEnglish": [
+      "teamwork",
+      "unity",
+      "together",
+      "group",
+      "cooperation",
+      "sharing",
+      "collaboration",
+      "project"
+    ],
+    "tanglishAliases": ["otrumai", "koottu", "sernthu", "team", "nanmai"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "Our group project was going nowhere until all five of us finally split the modules and started sharing notes in one document."
+      },
+      {
+        "language": "ta",
+        "text": "வகுப்பில் அனைவரும் சேர்ந்து குறிப்புகளைப் பகிர்ந்துகொண்டதால், தேர்வுக்குப் படிப்பது எல்லோருக்கும் எளிதாக இருந்தது."
+      },
+      {
+        "language": "tanglish",
+        "text": "Team la ellarum onna sernthu velai panna, deadline ku rendu naal munnadiye project mudinjidichu."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "uyara-uyarap-parandhaalum",
+    "proverbTamil": "உயர உயரப் பறந்தாலும் ஊர்க்குருவி பருந்தாகுமா?",
+    "transliteration": "Uyara uyarap parandhaalum oorkkuruvi parundhaagumaa",
+    "englishMeaning": "However high it flies, can a house sparrow become an eagle?",
+    "explanationTamil": "வெளித்தோற்றத்தால் பெரிய ஆளாகக் காட்டிக்கொண்டாலும், உண்மையான தகுதி இல்லாவிட்டால் அது வெளிப்பட்டுவிடும். தற்பெருமை பேசுபவரைக் குறிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Putting on airs does not change what someone actually is; the gap shows eventually. Use it about show-off behaviour or borrowed status that is not backed by real ability.",
+    "themes": ["pride", "appearances"],
+    "emotions": ["criticism", "warning"],
+    "keywordsTamil": ["ஆணவம்", "பெருமை", "குருவி", "பருந்து", "தோற்றம்"],
+    "keywordsEnglish": [
+      "arrogance",
+      "showoff",
+      "pretending",
+      "ego",
+      "bragging",
+      "status",
+      "flexing",
+      "pride"
+    ],
+    "tanglishAliases": ["aanavam", "perumai", "kuruvi", "parundhu", "show"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "He bought a luxury watch on emi and posts about it every week, but he still borrows money from us to pay his rent."
+      },
+      {
+        "language": "ta",
+        "text": "விலையுயர்ந்த ஆடையும் புதிய போனும் வைத்துப் பெரிய ஆளாகக் காட்டிக்கொள்கிறான், ஆனால் வேலையில் ஒரு சிறிய பணியைக்கூட முடிக்க முடியவில்லை."
+      },
+      {
+        "language": "tanglish",
+        "text": "Instagram la periya businessman maadhiri reels podraan, aana college fees kattave loan kekaraan."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "kaatru-ullapothe-thootrikkol",
+    "proverbTamil": "காற்று உள்ளபோதே தூற்றிக்கொள்",
+    "transliteration": "Kaatru ullapothe thootrikkol",
+    "englishMeaning": "Winnow the grain while the wind is still blowing.",
+    "explanationTamil": "வாய்ப்பு இருக்கும்போதே அதைப் பயன்படுத்திக் காரியத்தை முடித்துக்கொள்ள வேண்டும். நேரம் இருக்கும்போது ஒத்திப்போடுபவரை எச்சரிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Act while the conditions are in your favour, because the window closes. Use it when someone has free time or an open opportunity and is postponing the work anyway.",
+    "themes": ["preparation"],
+    "emotions": ["encouragement", "warning"],
+    "keywordsTamil": ["நேரம்", "வாய்ப்பு", "காற்று", "தயார்", "முன்கூட்டியே"],
+    "keywordsEnglish": [
+      "timing",
+      "opportunity",
+      "procrastination",
+      "deadline",
+      "prepare",
+      "early",
+      "postpone",
+      "chance"
+    ],
+    "tanglishAliases": ["neram", "vaaippu", "kaathu", "thayaar", "seekiram"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I have three free weeks before placement season starts and I keep telling myself I will build the portfolio site later."
+      },
+      {
+        "language": "ta",
+        "text": "விடுமுறை இருக்கும்போதே பாடங்களைப் படித்து முடித்தால், தேர்வு நெருங்கும்போது இரவு முழுவதும் விழிக்க வேண்டியதில்லை."
+      },
+      {
+        "language": "tanglish",
+        "text": "Ippo project la free time iruku, indha time la certification mudichitta appuram rush aagaadhu."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "aazham-ariyaamal-kaalai-vidaathe",
+    "proverbTamil": "ஆழம் அறியாமல் காலை விடாதே",
+    "transliteration": "Aazham ariyaamal kaalai vidaathe",
+    "englishMeaning": "Do not put your foot in without first knowing the depth.",
+    "explanationTamil": "எந்த ஒரு காரியத்திலும் இறங்கும் முன் அதன் ஆழத்தையும் விளைவுகளையும் அறிந்துகொள்ள வேண்டும். ஆராயாமல் முடிவெடுப்பவரை எச்சரிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Understand what you are getting into before you commit to it. Use it when someone is about to sign, join, or invest without reading the details.",
+    "themes": ["wisdom", "preparation"],
+    "emotions": ["warning", "concern"],
+    "keywordsTamil": ["ஆழம்", "அறிதல்", "எச்சரிக்கை", "முடிவு", "ஆராய்"],
+    "keywordsEnglish": [
+      "research",
+      "risk",
+      "commitment",
+      "contract",
+      "unknown",
+      "careless",
+      "decision",
+      "check"
+    ],
+    "tanglishAliases": ["aazham", "yosikka", "risk", "mudivu", "theriyaama"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "He signed a two year job bond without reading the exit clause and now leaving costs him three months of salary."
+      },
+      {
+        "language": "ta",
+        "text": "நிறுவனத்தைப் பற்றியோ வேலையின் தன்மையைப் பற்றியோ எதுவும் தெரியாமல் சேர்ந்து, இப்போது வெளியேற முடியாமல் சிக்கிக்கொண்டான்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Terms padikkaama app la instant loan apply panniten, ippo interest rate paathu bayama iruku."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "agathin-azhagu-mugathil",
+    "proverbTamil": "அகத்தின் அழகு முகத்தில் தெரியும்",
+    "transliteration": "Agathin azhagu mugathil theriyum",
+    "englishMeaning": "The beauty of the inner self shows on the face.",
+    "explanationTamil": "உள்ளத்தில் உள்ள நல்ல குணம் வெளித்தோற்றத்திலும் நடத்தையிலும் தானாகவே வெளிப்படும். மேற்பூச்சான அலங்காரத்தைவிட உள்ளம் முக்கியம் என்பதைச் சொல்ல இதைப் பயன்படுத்தலாம்.",
+    "explanationEnglish": "What a person really is leaks through their manner, whatever image they present. Use it when judging someone by their polish rather than their character.",
+    "themes": ["appearances"],
+    "emotions": ["approval", "reassurance"],
+    "keywordsTamil": ["அகம்", "அழகு", "முகம்", "குணம்", "உள்ளம்"],
+    "keywordsEnglish": [
+      "character",
+      "appearance",
+      "genuine",
+      "kindness",
+      "image",
+      "filter",
+      "authentic",
+      "judging"
+    ],
+    "tanglishAliases": ["azhagu", "gunam", "mugam", "ullam", "nallavan"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "She never posts anything online and dresses plainly, but everyone in the hostel goes to her first when something goes wrong."
+      },
+      {
+        "language": "ta",
+        "text": "வெளித்தோற்றத்தில் மிக எளிமையாக இருந்தாலும், அவர் பேசும் விதத்திலேயே அவரது நல்ல மனம் தெரிந்துவிடுகிறது."
+      },
+      {
+        "language": "tanglish",
+        "text": "Avan simple ah dress pannuvaan, aana yaarukku problem nu therinja udane help panna vandhuduvaan."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "sirugak-katti-peruga-vaazh",
+    "proverbTamil": "சிறுகக் கட்டி பெருக வாழ்",
+    "transliteration": "Sirugak katti peruga vaazh",
+    "englishMeaning": "Save in small amounts and live in plenty.",
+    "explanationTamil": "சிறிது சிறிதாகச் சேமிப்பவரே பின்னாளில் நிம்மதியாக வாழ முடியும். தேவையற்ற செலவுகளைக் குறைக்கச் சொல்லும்போது இதைப் பயன்படுத்தலாம்.",
+    "explanationEnglish": "Small, steady saving is what makes a comfortable life possible later. Use it when someone is spending everything they earn and wondering where it went.",
+    "themes": ["thrift"],
+    "emotions": ["encouragement", "warning"],
+    "keywordsTamil": ["சேமிப்பு", "சிக்கனம்", "செலவு", "பணம்", "வாழ்க்கை"],
+    "keywordsEnglish": [
+      "saving",
+      "spending",
+      "budget",
+      "salary",
+      "expenses",
+      "money",
+      "waste",
+      "afford"
+    ],
+    "tanglishAliases": ["semippu", "sikkanam", "selavu", "pisinari", "kaasu"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "If I stop ordering food online every single night and put that amount aside instead, I can buy the laptop in six months without a loan."
+      },
+      {
+        "language": "ta",
+        "text": "மாதம் ஒரு சிறிய தொகையைத் தனியாகச் சேமித்து வைத்தால், சில ஆண்டுகளில் அது பெரிய தொகையாக மாறிவிடும்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Salary vandha rendu naal la kaali aidudhu, daily oru chinna amount save panna year end ku trip poga podhum."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "unda-veettukku-irandagam",
+    "proverbTamil": "உண்ட வீட்டுக்கு இரண்டகம் நினையாதே",
+    "transliteration": "Unda veettukku irandagam ninaiyaathe",
+    "englishMeaning": "Never plot betrayal against the house that fed you.",
+    "explanationTamil": "தனக்கு உதவியவரையோ, தன்னைக் காப்பாற்றியவரையோ துரோகம் செய்யக்கூடாது. நன்றி மறக்கும் சூழலில் இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Do not turn on the people or the place that supported you when you needed it. Use it when someone is being pushed to badmouth or undercut a former mentor or employer.",
+    "themes": ["gratitude"],
+    "emotions": ["warning", "criticism"],
+    "keywordsTamil": ["நன்றி", "துரோகம்", "உதவி", "மறத்தல்", "விசுவாசம்"],
+    "keywordsEnglish": [
+      "gratitude",
+      "betrayal",
+      "loyalty",
+      "mentor",
+      "help",
+      "thankless",
+      "backstab",
+      "support"
+    ],
+    "tanglishAliases": ["nandri", "droham", "udhavi", "visuvasam", "marandhu"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "My senior taught me everything in my first job and now people want me to complain about him to management so I can take his role."
+      },
+      {
+        "language": "ta",
+        "text": "கஷ்டமான நேரத்தில் உதவிய நண்பரையே இப்போது பிறர் முன் குறை சொல்வது சரியல்ல என்று தோன்றுகிறது."
+      },
+      {
+        "language": "tanglish",
+        "text": "Naan struggle panna time la fees katti help panna company ah pathi ippo kevalama pesa mudiyala."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "nirai-kudam-thalumbaathu",
+    "proverbTamil": "நிறை குடம் தளும்பாது",
+    "transliteration": "Nirai kudam thalumbaathu",
+    "englishMeaning": "A pot that is full does not splash.",
+    "explanationTamil": "உண்மையிலேயே அறிவும் திறமையும் உள்ளவர்கள் தேவையில்லாமல் பேசி வெளிக்காட்டிக்கொள்ள மாட்டார்கள். அடக்கத்தையும் அமைதியையும் வலியுறுத்தும்போது இதைச் சொல்லலாம்.",
+    "explanationEnglish": "People who genuinely know something rarely need to announce it; the noise comes from those who know less. Use it to praise quiet competence or to caution someone who is talking over everyone.",
+    "themes": ["humility", "speech"],
+    "emotions": ["approval", "criticism"],
+    "keywordsTamil": ["அடக்கம்", "அமைதி", "குடம்", "அறிவு", "பேச்சு"],
+    "keywordsEnglish": [
+      "humility",
+      "quiet",
+      "boasting",
+      "knowledge",
+      "loud",
+      "modest",
+      "silent",
+      "competence"
+    ],
+    "tanglishAliases": ["adakkam", "amaidhi", "kudam", "arivu", "pechu"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "The quietest person in our team turned out to be the only one who had actually read the whole codebase before the review."
+      },
+      {
+        "language": "ta",
+        "text": "கூட்டத்தில் அதிகம் பேசியவரைவிட, அமைதியாக இருந்தவரே சரியான தீர்வைச் சொன்னார்."
+      },
+      {
+        "language": "tanglish",
+        "text": "Class la loud ah pesuravanuku thaan konjam theriyum, silent ah irukuravanuku ellame theriyum nu ippo puriyudhu."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "oorodu-oththu-vaazh",
+    "proverbTamil": "ஊரோடு ஒத்து வாழ்",
+    "transliteration": "Oorodu oththu vaazh",
+    "englishMeaning": "Live in step with the place you are in.",
+    "explanationTamil": "நாம் இருக்கும் இடத்தின் மக்களுடனும் முறைகளுடனும் ஒத்துப்போய் வாழ்வதே நல்லது. புதிய சூழலுக்கு மாற்றிக்கொள்ள வேண்டிய நேரத்தில் இதைச் சொல்லலாம்.",
+    "explanationEnglish": "Adjust to the customs and rhythm of wherever you are instead of fighting them. Use it when someone has moved to a new city, team, or culture and is resisting how things work there.",
+    "themes": ["adaptability"],
+    "emotions": ["encouragement", "reassurance"],
+    "keywordsTamil": ["ஊர்", "ஒத்துப்போ", "மாற்றம்", "பழகு", "சூழல்"],
+    "keywordsEnglish": [
+      "adapt",
+      "adjust",
+      "newcity",
+      "culture",
+      "change",
+      "fitting",
+      "belong",
+      "environment"
+    ],
+    "tanglishAliases": ["oor", "othu", "adjust", "maatram", "pazhagu"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I moved to a new city for my first job and I am struggling with how differently this team communicates and plans work."
+      },
+      {
+        "language": "ta",
+        "text": "புதிய இடத்திற்குச் சென்றால் அங்குள்ள பழக்கவழக்கங்களுக்கு ஏற்ப நடந்துகொண்டால்தான் நிம்மதியாக இருக்க முடியும்."
+      },
+      {
+        "language": "tanglish",
+        "text": "New office culture ku adjust panna kastama iruku, ellarum vera maadhiri work panraanga."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  },
+  {
+    "id": "vaai-nallathaayirundhaal",
+    "proverbTamil": "வாய் நல்லதாயிருந்தால் ஊர் நல்லதாயிருக்கும்",
+    "transliteration": "Vaai nallathaayirundhaal ooru nallathaayirukkum",
+    "englishMeaning": "If your speech is good, the whole town will be good to you.",
+    "explanationTamil": "நாம் பேசும் வார்த்தைகளே நம்மைச் சுற்றியுள்ளவர்களின் நடத்தையைத் தீர்மானிக்கின்றன. கோபத்தில் பேசிக் கெடுத்துக்கொள்பவரை எச்சரிக்க இதைச் சொல்லலாம்.",
+    "explanationEnglish": "The way you speak decides how people around you treat you. Use it when careless or angry words have damaged someone's relationships at work or at home.",
+    "themes": ["speech"],
+    "emotions": ["warning", "regret"],
+    "keywordsTamil": ["வாய்", "பேச்சு", "வார்த்தை", "கோபம்", "உறவு"],
+    "keywordsEnglish": [
+      "words",
+      "speaking",
+      "rude",
+      "apology",
+      "argument",
+      "harsh",
+      "relationship",
+      "tone"
+    ],
+    "tanglishAliases": ["vaai", "pechu", "vaarthai", "kobam", "sanda"],
+    "exampleSituations": [
+      {
+        "language": "en",
+        "text": "I lost my temper in the group chat and said things I regret, and now nobody wants me on their side of the sprint."
+      },
+      {
+        "language": "ta",
+        "text": "கோபத்தில் பேசிய ஒரு வார்த்தையால் பல வருட நட்பு கெட்டுப்போய்விட்டது."
+      },
+      {
+        "language": "tanglish",
+        "text": "Meeting la kandapadi pesiten, ippo team la yaarum kooda sariya pesa maatengraanga."
+      }
+    ],
+    "source": { "title": "Widely documented Tamil proverb" },
+    "reviewStatus": "native-reviewed"
+  }
+]
