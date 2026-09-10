@@ -2,9 +2,11 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, preprod]
   pull_request:
-    branches: [main]
+    # preprod is the integration branch feature work targets; without it here,
+    # every feature PR merges unchecked.
+    branches: [main, preprod]
 
 # A newer push to the same branch makes an in-flight run irrelevant.
 concurrency:
