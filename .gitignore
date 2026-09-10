@@ -16,6 +16,10 @@ Thumbs.db
 .idea/
 .vscode/
 
+# TypeScript and Next.js generated files
+*.tsbuildinfo
+next-env.d.ts
+
 # Local model and generated-data artifacts
 data/index/
 *.log
